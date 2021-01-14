@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.exe
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.deps.json
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.runtimeconfig.json
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.runtimeconfig.dev.json
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.dll
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\bin\Debug\netcoreapp3.1\LeetcodeSolver.pdb
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.AssemblyInfo.cs
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.dll
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.pdb
+C:\Users\user\source\repos\LeetcodeSolver\LeetcodeSolver\obj\Debug\netcoreapp3.1\LeetcodeSolver.genruntimeconfig.cache
